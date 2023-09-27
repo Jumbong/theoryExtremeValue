@@ -1,1 +1,1 @@
-# theoryExtremeValue
+# Extreme Value theory
